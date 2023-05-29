@@ -1,0 +1,141 @@
+
+.introduction{
+    background-color: #e4f9f5;
+    height: 80vh;
+    text-align: center;
+    padding-top: 30px;
+}
+h1{
+    font-family: 'Merriweather', serif;
+    
+    margin-bottom: 50px;
+}
+.intro{
+
+    font-family: 'Playfair Display', serif;
+}
+
+.pic{  
+    margin-bottom: 40px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+.coka{
+    position:relative;
+    bottom:100px;
+    right:500px;
+}
+.coke{
+    height: 150px;
+    width: 100 px;
+}
+.air{
+    height: 250px;
+    width: 200 px;
+}
+.wind{
+    position:absolute;
+    left:1200px;
+    top: 100px;  
+}
+.education >p{
+    font-style: serif;
+}
+.education{
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    height: 50vh;
+
+}
+.img{
+    height: 150px;
+    width: 300px;
+    border-radius: 3%;
+}
+
+.edu{
+    margin-left: 105px;
+   padding-top: 20px;
+}
+.skill{
+    padding-top: 50px;
+    height: 70vh;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+
+}
+ p{
+    font-family: serif;
+}
+
+.skill h5{
+    margin-bottom: 10px;
+}
+.skill p{
+    margin-top: 10px;
+}
+.logo{
+    height: 250px;
+    justify-content: center;
+}
+.exp{
+    text-align: center;
+}
+.experience{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: 1fr 0.4fr 0.4fr;
+    margin-left: 100px;
+    background-color: rgb(17, 14, 11);
+    row-gap: 5px;
+    column-gap: 5px;
+}
+.exp{
+   margin-bottom: 50px;
+}
+
+.copyright {
+    color: #237d7d;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.t {
+    display: flex;
+    background-color:whitesmoke;
+}
+.t> p{
+   margin-left: 20px;
+   margin-top: 20px;
+}
+.ssc>p{
+    margin-top: 50px;
+}
+.t> h1{
+    margin-left: 20px;
+    margin-top: 20px;
+ }
+ .bc{
+    background-color:whitesmoke;
+ }
+
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+    text-align: center;
+    color: #40514e;
+    margin: 0;
+    font-family: "Merriweather", serif;
+}    
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}    
+
+
+
